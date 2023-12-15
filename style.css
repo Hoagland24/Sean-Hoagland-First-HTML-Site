@@ -1,0 +1,30 @@
+html {
+    background-color: #EEF0E5;
+
+}
+h1 {
+    background: #163020;
+    text-align: center;
+    height: auto;
+    color: #EEF0E5;
+}
+
+h2 {
+    background: #304D30;
+    text-align: center;
+    height: auto;
+    color: #EEF0E5;
+}
+h3 {
+    background: #B6C4B6;
+    text-align: center;
+    height: auto;
+    color: #EEF0E5;
+}
+
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+}
